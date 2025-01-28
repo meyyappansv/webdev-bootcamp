@@ -1,0 +1,45 @@
+html {
+    background-color: #fa923f;
+    padding: 10px;
+}
+
+body {
+    background-color: yellow;
+    padding: 10px;
+    margin: 0;
+    position: absolute;
+}
+
+#div1 {
+    background-color: #f073e1;
+    position:  relative;
+    top: 10px;
+    left: 10px;
+    
+}
+#div1 > p {
+    background-color: blue;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    margin: 0px
+
+}
+
+#p2 {
+    background-color: green;
+    position: relative;
+    top: 10px;
+    margin: 0px;
+}
+
+#div2 {
+    background-color: #f073e1;
+    margin: 10px;
+    
+}
+
+#div3 {
+    background-color: #f073e1; 
+    margin: 10px;
+}
